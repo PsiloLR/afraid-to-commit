@@ -132,7 +132,9 @@ mistakes you spot.
 #.  hit the **Edit** button
 #.  add your name (just your name, you will add other information later) to the
     appropriate place in the file. If you're following the tutorial by yourself,
-    add your details in the *I followed the tutorial online* section.
+    add your details in the *I followed the tutorial online* section. Don't
+    forget to include a '* ' before your name, to keep up with the page's 
+    beautiful formatting!
 
 Commit your changes
 -------------------
